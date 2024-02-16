@@ -67,9 +67,9 @@
     </a>
     <br/>
     <a href="https://github.com/XoXoTheFrozenFox">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=XoXoTheFrozenFox&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="300"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="925"/>
     </a>
     <a href="https://github.com/XoXoTheFrozenFox">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="950"/>
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=XoXoTheFrozenFox&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="300"/>
     </a>
 </div>
