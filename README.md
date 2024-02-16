@@ -44,7 +44,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🖥️ Social-media used for Nuwelco's marketing 💻 <br/> (URL on icons)</h2>
+<h2 align="center">🖥️ Social-media used for Nuwelco's marketing 💻 <br/> (URLs on icons)</h2>
 <br/>
 <div align="center">
     <a href="https://www.instagram.com/nuwelco/">
