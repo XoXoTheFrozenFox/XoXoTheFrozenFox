@@ -63,4 +63,4 @@
 <div align=center>
 
 </div>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XoXoTheFrozenFox)](https://github.com/XoXoTheFrozenFox/github-readme-stats)
+[    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XoXoTheFrozenFox)](https://github.com/XoXoTheFrozenFox/github-readme-stats)](https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)https://github-readme-stats.vercel.app/api?username=aimedivin&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false
