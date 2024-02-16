@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my honours project**
+ 🔭 Currently working on **my honours project**
  
  🧑‍💻 Currently working as marketing staff for **Nuwelco**
  
- 🌱 I’m currently learning **Azure, Javascript, Kotlin**
+ 🌱 Currently learning **Azure, Javascript, Kotlin**
 
  ⚡ Fun fact: **Yoda was almost played by a monkey**
 
