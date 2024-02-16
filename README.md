@@ -50,7 +50,6 @@
     <a href="https://www.instagram.com/nuwelco/">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
-    <br/>
     <a href="https://www.linkedin.com/company/nuwelco/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a> 
