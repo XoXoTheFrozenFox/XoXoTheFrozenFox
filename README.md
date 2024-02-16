@@ -1,19 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=XoXoTheFrozenFox.XoXoTheFrozenFox" />
+<div style="float: right;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=XoXoTheFrozenFox.XoXoTheFrozenFox" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👽;+I'm+Bernard+Swanepoel!;" />
 </h1>
 
-<h2 align="center">A passionate software developer from South Africa</h2>
+<h2 align="center">A passionate software developer from South Africa <br/> (URLs on icons)</h2>
 
 <br/>
 
 <div align="center">
  
  🔭 Currently working on **my honours project**
- 
- 🧑‍💻 Currently working as marketing staff for **Nuwelco**
- 
+
  🌱 Currently learning **Azure, Javascript, Kotlin**
 
  ⚡ Fun fact: **Yoda was almost played by a monkey**
@@ -22,28 +22,34 @@
  
 <div align="center"> 
   <a href="mailto:bernardswanepoel1510@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/bernard-swanepoel-a2777322b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://xoxothefrozenfox.github.io/BernardSwanepoelCV/Index.html" target="_blank">
-     <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
  <hr/>
 
  <h2 align="center">🖥️ Social-media and contact info for Nuwelco 💻 <br/> (URLs on icons)</h2>
+
+ <br/>
+ 
+ <div align="center">
+     
+ 🧑‍💻 Currently working as marketing staff for **Nuwelco**
+ 
+ ⚒️ Nuwelco specializes in the **manufacturing and repair** of mining supplies
+ </div>
 <br/>
 <div align="center"> 
   <a href="mailto:pjdswanepoel@mweb.co.za">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/company/nuwelco/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>&nbsp;
   <a href="https://www.instagram.com/nuwelco/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+     <img src="https://skillicons.dev/icons?i=instagram" /> 
   </a>
 </div>
 <br/>
