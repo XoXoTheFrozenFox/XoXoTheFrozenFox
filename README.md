@@ -65,6 +65,17 @@
 <br/>
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+    <a href="https://github.com/XoXoTheFrozenFox">
+        <img src="https://raw.githubusercontent.com/XoXoTheFrozenFox/XoXoTheFrozenFox/output/github-contribution-grid-snake.svg" height="300"/>
+    </a>
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
