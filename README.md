@@ -61,7 +61,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <a href="https://github.com/XoXoTheFrozenFox">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="300"/>
     </a>
