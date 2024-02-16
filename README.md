@@ -63,7 +63,7 @@
 <div align="center">
     <br/>
     <a href="https://github.com/XoXoTheFrozenFox">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="460"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="465"/>
     </a>
     <br/>
     <a href="https://github.com/XoXoTheFrozenFox">
