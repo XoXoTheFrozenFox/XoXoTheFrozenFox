@@ -23,7 +23,7 @@
 <div align="center"> 
   <a href="mailto:bernardswanepoel1510@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/bernard-swanepoel-a2777322b/" >
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
