@@ -63,7 +63,7 @@
 <div align="center">
     <br/>
     <a href="https://github.com/XoXoTheFrozenFox">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="925"/>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=XoXoTheFrozenFox&theme=radical&langs_count=10" height="500"/>
     </a>
     <a href="https://github.com/XoXoTheFrozenFox">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=XoXoTheFrozenFox&show_icons=true&theme=radical" height="150"/>
