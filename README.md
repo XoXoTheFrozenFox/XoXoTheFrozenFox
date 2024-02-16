@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,javascript,c,html,css,nodejs,dotnet" />   
-    <br>
+    <br/>
     <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,github,azure,linux,powershell,latex" /><br>
 </div>
 <br/>
@@ -49,7 +49,8 @@
 <div align="center">
     <a href="https://www.instagram.com/nuwelco/">
         <img src="https://skillicons.dev/icons?i=instagram" />
-    </a> 
+    </a>
+    <br/>
     <a href="https://www.linkedin.com/company/nuwelco/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a> 
