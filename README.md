@@ -31,27 +31,30 @@
      <img src="https://img.shields.io/badge/CV-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
  <hr/>
- 
+
+ <h2 align="center">🖥️ Social-media and contact info for Nuwelco 💻 <br/> (URLs on icons)</h2>
+<br/>
+<div align="center"> 
+  <a href="mailto:pjdswanepoel@mweb.co.za">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/company/nuwelco/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/nuwelco/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+  </a>
+</div>
+<br/>
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,javascript,c,html,css,nodejs,dotnet" />   
     <br/>
     <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,github,azure,linux,powershell,latex" /><br>
-</div>
-<br/>
-<hr/>
-
-<h2 align="center">🖥️ Social-media used for Nuwelco's marketing 💻 <br/> (URLs on icons)</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram" usemap="#social-links" /><br>
-    <map name="social-links">
-    <area shape="rect" coords="0,0,50,50" href="https://www.linkedin.com/company/nuwelco/" alt="LinkedIn">
-    <area shape="rect" coords="50,0,100,50" href="https://www.instagram.com/nuwelco/" alt="Instagram">
-    </map>
 </div>
 <br/>
 <hr/>
