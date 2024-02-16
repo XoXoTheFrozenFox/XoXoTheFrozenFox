@@ -12,9 +12,11 @@
  
  🔭 I’m currently working on **my honours project**
  
+ 🧑‍💻 Currently working as marketing staff for **Nuwelco**
+ 
  🌱 I’m currently learning **Azure, Javascript, Kotlin**
 
-⚡ Fun fact: **Yoda was almost played by a monkey!**
+ ⚡ Fun fact: **Yoda was almost played by a monkey**
 
  </div>
  
@@ -42,13 +44,13 @@
 <br/>
 <hr/>
 
-<h2 align="center">🖥️ Socialmedia used for Nuwelco's marketing 💻</h2>
+<h2 align="center">🖥️ Social-media used for Nuwelco's marketing 💻 <br/> (URL on icons)</h2>
 <br/>
 <div align="center">
     <a href="https://instagram.com">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a> 
-    <a href="https://instagram.com">
+    <a href="https://www.linkedin.com/company/nuwelco/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a> 
 </div>
