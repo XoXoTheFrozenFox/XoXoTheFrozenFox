@@ -21,12 +21,12 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:bernardswanepoel1510@gmail.com">
+  <span onclick="window.location.href='mailto:bernardswanepoel1510@gmail.com'; cursor: pointer; display: inline-block;">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/bernard-swanepoel-a2777322b/" target="_blank">
+  </span>
+  <span onclick="window.open('https://www.linkedin.com/in/bernard-swanepoel-a2777322b/'); cursor: pointer; display: inline-block;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </span>
 </div>
  <hr/>
 
