@@ -48,11 +48,10 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linkedin,instagram" usemap="#social-links" /><br>
-
-<map name="social-links">
+    <map name="social-links">
     <area shape="rect" coords="0,0,50,50" href="https://www.linkedin.com/company/nuwelco/" alt="LinkedIn">
     <area shape="rect" coords="50,0,100,50" href="https://www.instagram.com/nuwelco/" alt="Instagram">
-</map>
+    </map>
 </div>
 <br/>
 <hr/>
