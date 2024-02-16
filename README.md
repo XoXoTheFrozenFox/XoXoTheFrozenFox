@@ -47,12 +47,12 @@
 <h2 align="center">🖥️ Social-media used for Nuwelco's marketing 💻 <br/> (URLs on icons)</h2>
 <br/>
 <div align="center">
-    <a href="https://www.instagram.com/nuwelco/">
-        <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
     <a href="https://www.linkedin.com/company/nuwelco/">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a> 
+    <a href="https://www.instagram.com/nuwelco/">
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
 </div>
 <br/>
 <hr/>
