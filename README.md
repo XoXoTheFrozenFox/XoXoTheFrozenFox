@@ -58,9 +58,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,javascript,c,html,css,nodejs,dotnet" />   
+    <img src="https://skillicons.dev/icons?i=bash,kotlin,python,cs,cpp,java,javascript,c,html,css,nodejs,dotnet,atom,idea" />   
     <br/>
-    <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,github,azure,linux,powershell,latex" /><br>
+    <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,github,azure,linux,powershell,latex,mysql,notion,npm,discordbots,kali,ubuntu" /><br>
+    <br/>
 </div>
 <br/>
 <hr/>
