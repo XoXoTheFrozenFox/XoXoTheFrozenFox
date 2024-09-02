@@ -1,7 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=XoXoTheFrozenFox&icon=8&color=4)](https://visitcount.itsvg.in)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👽;+I'm+Bernard+Swanepoel!;" />
 </h1>
-
 <h2 align="center">A passionate software developer from South Africa <br/> (URLs on icons)</h2>
 
 <br/>
@@ -63,6 +63,9 @@
 <br/>
 <hr/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=XoXoTheFrozenFox&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
@@ -77,6 +80,15 @@
     </a>
     <br/>
     <a href="https://github.com/XoXoTheFrozenFox">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=XoXoTheFrozenFox&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="150"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=XoXoTheFrozenFox&theme=radical&hide_border=false" height="150"/>
     </a>
 </div>
+<div align="center">
+    
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=XoXoTheFrozenFox&limit=5&theme=radical&combine_all_yearly_contributions=true)
+## ✍️ Random Dev Quote
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ </div>
+
+
