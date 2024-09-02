@@ -87,8 +87,12 @@
     
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XoXoTheFrozenFox&limit=5&theme=radical&combine_all_yearly_contributions=true)
-## ✍️ Random Dev Quote
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  </div>
+
+ ## ✍️ Random Dev Quote
+<div align="center">
+     
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Image" width="550"/>
+  </div>
 
 
