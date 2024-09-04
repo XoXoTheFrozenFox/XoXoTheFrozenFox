@@ -56,8 +56,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,kotlin,firebase,androidstudio,python,flask,pytorch,tensorflow,cs,dotnet,cpp,java,spring,javascript,c,html,css,nodejs,react,matlab,github,githubactions,git,azure,aws,powershell,latex,mysql,notion,npm" />   
     <br/>
-    <img src="https://skillicons.dev/icons?i=discordbots,windows,linux,kali,ubuntu,vscode,visualstudio,atom,idea,vim,raspberrypi,postman,docker,gradle,maven" /><br>
-    <img src="https://skillicons.dev/icons?i=typescript,anaconda" /><br>
+    <img src="https://skillicons.dev/icons?i=discordbots,windows,linux,kali,ubuntu,vscode,visualstudio,atom,idea,pycharm,vim,raspberrypi,postman,docker,gradle" /><br>
+    <img src="https://skillicons.dev/icons?i=maven,typescript,anaconda" /><br>
     <br/
 </div>
 <br/>
