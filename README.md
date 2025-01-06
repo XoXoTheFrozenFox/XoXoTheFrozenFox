@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 Currently working on **my honours project**
+ 🔭 Currently working on **my masters project**
 
  🌱 Currently learning **Azure, Javascript, Kotlin**
 
