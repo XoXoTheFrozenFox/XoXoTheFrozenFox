@@ -10,7 +10,7 @@
  
  🔭 Currently working on **my masters project**
 
- 🌱 Currently learning **Azure, Javascript, Kotlin**
+ 🌱 Currently learning **Golang, Ktor, MATLAB**
 
  ⚡ Fun fact: **Yoda was almost played by a monkey**
 
