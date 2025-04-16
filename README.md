@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=XoXoTheFrozenFox&icon=8&color=4)](https://visitcount.itsvg.in)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👽;+I'm+Bernard+Swanepoel!;" />
 </h1>
@@ -95,5 +94,7 @@
      
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Image" width="550"/>
   </div> -->
+<h2 align="center">Commits🗨️</h2>
+<img src="https://github.com/XoXoTheFrozenFox/XoXoTheFrozenFox/blob/output/snake.svg" alt="Snake animation" />
 
 
