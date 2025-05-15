@@ -96,6 +96,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote Image" width="550"/>
   </div> -->
 <h2 align="center">🗨️ Commits</h2>
-<img src="https://github.com/XoXoTheFrozenFox/XoXoTheFrozenFox/blob/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://github.com/XoXoTheFrozenFox/XoXoTheFrozenFox/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" />
 
 
