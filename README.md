@@ -97,5 +97,7 @@
   </div> -->
 <h2 align="center">🗨️ Commits</h2>
 <!-- <img src="https://github.com/XoXoTheFrozenFox/XoXoTheFrozenFox/blob/output/pacman-contribution-graph-dark.svg" alt="Pacman animation" /> -->
-<img src="https://raw.githubusercontent.com/XoXoTheFrozenFox/XoXoTheFrozenFox/output/space-shooter.gif" />
+
+![Space Shooter](https://raw.githubusercontent.com/XoXoTheFrozenFox/XoXoTheFrozenFox/output/space-shooter.gif)
+
 
