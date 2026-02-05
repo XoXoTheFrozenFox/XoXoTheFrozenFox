@@ -1,12 +1,9 @@
 name: Generate space shooter animation
 
 on:
-  # schedule:
-  #   - cron: "0 0 * * *"   # daily (UTC)
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   generate:
@@ -16,19 +13,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+
+      - name: Ensure dist exists
+        run: mkdir -p dist
 
       - name: Generate space shooter GIF
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
+          username: XoXoTheFrozenFox
           output-path: dist/space-shooter.gif
           strategy: random
-          fps: 40
+          commit-message: "chore: update space shooter gif"
 
-      - name: Publish to output branch
+      - name: Push dist to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
