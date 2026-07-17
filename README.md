@@ -62,9 +62,9 @@
 </div>
 <br/>
 <hr/>
-
+<!--##
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=XoXoTheFrozenFox&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=XoXoTheFrozenFox&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -86,9 +86,9 @@
 </div> -->
 <div align="center">
     
-## 🔝 Top Contributed Repo
+<!--## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=XoXoTheFrozenFox&limit=5&theme=radical&combine_all_yearly_contributions=true)
- </div>
+ </div>-->
 
  <!--## ✍️ Random Dev Quote
 <div align="center">
